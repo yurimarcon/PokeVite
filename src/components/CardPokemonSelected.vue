@@ -26,7 +26,7 @@ const pokemon = defineProps(["name", "xp", "height", "img", "loading"])
         <div class="card-body">
             <h5 class="card-title text-center">{{ pokemon.name || '???' }}</h5>
             <hr>
-            <div class="row">
+            <div class="row text-center">
                 <section class="col">
                     <strong>XP:</strong>
                     <span>{{ pokemon.xp }}</span>

@@ -22,11 +22,11 @@ yuri.erik.oliveira@gmail.com
 Basta abrir seu terminal e rodar os seguintes comandos:
 
 ```sh
-git clone https://github.com/yurimarcon/Vite-pokedex.git
+git clone https://github.com/yurimarcon/PokeVite.git
 ```
 
 ```sh
-cd Vite-pokedex
+cd PokeVite
 ```
 
 ```sh
