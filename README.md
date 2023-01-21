@@ -11,6 +11,6 @@ No final do projeto desenvolvemos essa pokedex:
 ![image](https://user-images.githubusercontent.com/44410208/156862265-b52412b8-4563-449e-9a23-4c04f77383f3.png)
 
 Agradeço as pessoas que acompanharam a incentivaram o projeto! 
-Caso queira desenvolver acompanhando as video aulas e fique com alguma dúvida, fique a vontade para entrar em contato via e-mail.
+Caso queira desenvolver acompanhando as video aulas e fique com alguma dúvida, fique a vontade para entrar em contato por e-mail.
 yuri.erik.oliveira@gmail.com
 🤓 ✌️
