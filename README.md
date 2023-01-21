@@ -14,3 +14,27 @@ Agradeço as pessoas que acompanharam a incentivaram o projeto!
 Caso queira desenvolver acompanhando as video aulas e fique com alguma dúvida, fique a vontade para entrar em contato via e-mail.
 yuri.erik.oliveira@gmail.com
 🤓 ✌️
+
+---
+
+## Como rodar projeto?
+
+Basta abrir seu terminal e rodar os seguintes comandos:
+
+```sh
+git clone https://github.com/yurimarcon/Vite-pokedex.git
+```
+
+```sh
+cd Vite-pokedex
+```
+
+```sh
+npm i
+```
+
+```sh
+npm run dev
+```
+
+Após isso provavelmente o projeto estará rodando em http://localhost:5173/
