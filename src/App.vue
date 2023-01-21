@@ -41,6 +41,7 @@ let num = ref(0)
 
 <style>
 body{
+  overflow: hidden;
   min-height: 100vh;
   background: rgb(106,196,233);
   background: linear-gradient(0deg, rgba(106,196,233,0.9360119047619048) 0%, rgba(0,41,150,1) 100%);
@@ -53,5 +54,10 @@ footer{
   align-items:center;
   justify-content: center;
   height: 56px;
+}
+@media (max-width: 600px) {
+  body{
+    overflow: auto;
+  }
 }
 </style>

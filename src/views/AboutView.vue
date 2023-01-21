@@ -1,6 +1,6 @@
 <template>
   <div class="container mt-4 text-body-secondary">
-    <div class="card mb-5">
+    <div class="card" style="margin-bottom: 100px">
       <h1 class="text-center">PokeVite</h1>
       <div class="card-body">
         <h2>Objetivo:</h2>
@@ -25,12 +25,5 @@
   </div>
 </template>
 
-<style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
+<style scoped>
 </style>
