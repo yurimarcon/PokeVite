@@ -13,7 +13,7 @@ export default defineConfig({
       manifest: {
         name: 'PokeVite',
         short_name: 'PokeVite',
-        description: 'Pokedex com Vue.js + Vite',
+        description: 'Pokedex com Vue.js + Vite :)',
         theme_color: '#ffffff',
         icons: [
           {
