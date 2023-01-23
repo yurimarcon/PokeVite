@@ -11,8 +11,8 @@ export default defineConfig({
     VitePWA({
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'masked-icon.svg'],
       manifest: {
-        name: 'My Awesome App',
-        short_name: 'MyApp',
+        name: 'PokeVite',
+        short_name: 'PokeVite',
         description: 'My Awesome App description',
         theme_color: '#ffffff',
         icons: [
