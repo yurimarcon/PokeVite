@@ -1,7 +1,7 @@
 {
-    "name": "Pokevite",
-    "short_name": "Pokevite",
-    "start_url":"/",
+    "name": "PokeVite",
+    "short_name": "PokeVite",
+    "start_url": "/",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
